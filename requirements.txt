@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+dill
+seaborn 
+scikit-learn
+ipynbkernel
+tensorflow
+flask
+flask_cors
+django
+#-e .
